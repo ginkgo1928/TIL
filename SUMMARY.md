@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TIL pages](README.md)
+* [TIL](README.md)
 
 ## React
 
