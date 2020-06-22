@@ -2,8 +2,8 @@
 
 * [TIL pages](README.md)
 
-## React <a id="css"></a>
+## React
 
-* [Component](css/component.md)
-* [Prop and State](css/prop-and-state.md)
+* [Component](react/component.md)
+* [Prop and State](react/prop-and-state.md)
 
